@@ -27,22 +27,13 @@ cd url-shortener
 The application runs on: http://localhost:8080
 
 3. H2 Database Console
-
+   
 ---
 
-Access the H2 console at:
+ <img width="1325" height="687" alt="image" src="https://github.com/user-attachments/assets/8c9b8774-15f8-46d7-81f6-83694db81336" />
 
-http://localhost:8080/h2-console
+ ---
 
-User: sa
-Password: (leave empty)
-
-
-
-
-
-     <img width="1325" height="687" alt="image" src="https://github.com/user-attachments/assets/8c9b8774-15f8-46d7-81f6-83694db81336" />
-
-     <img width="1325" height="687" alt="image" src="https://github.com/user-attachments/assets/6e247f7a-3e05-47d0-8215-6887c0d18ee7" />
+ <img width="1325" height="687" alt="image" src="https://github.com/user-attachments/assets/6e247f7a-3e05-47d0-8215-6887c0d18ee7" />
 
 
