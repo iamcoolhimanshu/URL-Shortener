@@ -1,8 +1,11 @@
-![Build](https://img.shields.io/github/actions/workflow/status/your-username/url-shortener/ci.yml?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot)
-![License](https://img.shields.io/github/license/your-username/url-shortener?style=for-the-badge)
+URL-Shortener --
 
+![Maven](https://img.shields.io/badge/Maven-Build-blue?style=for-the-badge&logo=apachemaven)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Ready-0db7ed?style=for-the-badge&logo=docker)
+
+---
 
 A high-performance, scalable URL Shortening Service built using Java & Spring Boot that transforms long, messy links into short, elegant URLs—just like Bitly or TinyURL.
 
@@ -12,12 +15,19 @@ Designed for system-design practice, backend mastery, and real-world deployment 
 🌟 Features
 
 ✅ Generate short URLs instantly
+
 ✅ Redirect to original links in milliseconds
+
 ✅ Custom aliases support
+
 ✅ Expiry time for links
+
 ✅ Click tracking & analytics
+
 ✅ RESTful APIs
+
 ✅ Input validation & rate limiting
+
 ✅ Database persistence
 
 ---
@@ -53,8 +63,11 @@ Contributions are always welcome! 🎉
 If you'd like to improve this project:
 
 1️⃣ Fork the repository
+
 2️⃣ Create a new feature branch
+
 3️⃣ Commit your changes
+
 4️⃣ Open a Pull Request
 
 Please make sure your code follows best practices, includes proper tests, and keeps formatting clean ✨
@@ -68,8 +81,11 @@ This project is built for learning, experimentation, and real-world system desig
 If you find it useful:
 
 ⭐ Star the repo
+
 🐛 Report issues
+
 💡 Suggest features
+
 📢 Share feedback
 
 Let’s build something awesome together 🚀
@@ -78,12 +94,14 @@ Let’s build something awesome together 🚀
 
 👨‍💻 Author
 
-Himanshu
+Himanshu Vishwakarma
+
 ☕ Java Developer | Backend Enthusiast
 
 💻 Loves building scalable systems & clean architectures
 
 ---
+
 
  <img width="1325" height="687" alt="image" src="https://github.com/user-attachments/assets/8c9b8774-15f8-46d7-81f6-83694db81336" />
 
