@@ -1,11 +1,4 @@
-URL-Shortener --
-
-![Maven](https://img.shields.io/badge/Maven-Build-blue?style=for-the-badge&logo=apachemaven)
-![Redis](https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-Ready-0db7ed?style=for-the-badge&logo=docker)
-
----
+🔗✨ URL Shortener — Spring Boot 
 
 A high-performance, scalable URL Shortening Service built using Java & Spring Boot that transforms long, messy links into short, elegant URLs—just like Bitly or TinyURL.
 
