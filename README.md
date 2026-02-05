@@ -1,6 +1,6 @@
-🔗✨ URL Shortener — Spring Boot 
+🔗✨ URL SHORTNER ----
 
-A high-performance, scalable URL Shortening Service built using Java & Spring Boot that transforms long, messy links into short, elegant URLs—just like Bitly or TinyURL.
+A high-performance, scalable URL Shortening Service built using Java & Spring Boot that transforms long, messy links into short, elegant URLs just like Bitly or TinyURL.
 
 Designed for system-design practice, backend mastery, and real-world deployment scenarios.
 
